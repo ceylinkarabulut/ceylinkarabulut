@@ -19,7 +19,3 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="40" height="40"/></td>
   </tr>
 </table>
-
-## Stats:
-![ceylinkarabulut's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceylinkarabulut&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceylinkarabulut&theme=radical)](https://github.com/ceylinkarabulut/github-readme-stats)
