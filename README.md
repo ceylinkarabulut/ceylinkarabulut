@@ -1,6 +1,5 @@
-# Hi there!! :3
+# Hi there!! 
 <br> I'm a software engineering student at IUE.<br>
-<br> I’m currently learning embedded programing!<br>
 
 ## My Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ceylink7790) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ceylinkarabulut) 
